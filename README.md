@@ -1,2 +1,3 @@
 # Basic-Machine-Learning
-Đây là repository thử nghiệm các thuật toán trong cuốn Machine Learning Cơ bản
+A repo for implement Math of Machine Learning into Code
+
